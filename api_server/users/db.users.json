@@ -1,0 +1,17 @@
+[
+  { "username": "johnny", 
+    "password": "hbhsdbksdjdsjx" 
+  },
+  {
+    "username": "similoluwa",
+    "password": "67890",
+    "api_key": "similoluwa_67890",
+    "user_type": "admin"
+  },
+  {
+    "username": "daniella",
+    "password": "dhnhgdnss",
+    "api_key": "daniella_dhnhgdnss",
+    "user_type": "user"
+  }
+]
